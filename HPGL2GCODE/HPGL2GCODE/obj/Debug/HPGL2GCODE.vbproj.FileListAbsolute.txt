@@ -1,0 +1,24 @@
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\bin\Debug\HPGL2GCODE.exe.config
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\bin\Debug\HPGL2GCODE.exe
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\bin\Debug\HPGL2GCODE.pdb
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\bin\Debug\HPGL2GCODE.xml
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.Form1.resources
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.Form2.resources
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.Resources.resources
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.vbproj.GenerateResource.Cache
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.exe
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.xml
+C:\Users\Left_Gangster\AppData\Local\Temporary Projects\HPGL2GCODE\obj\Debug\HPGL2GCODE.pdb
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\bin\Debug\HPGL2GCODE.exe.config
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.exe
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.xml
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.pdb
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\bin\Debug\HPGL2GCODE.exe
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\bin\Debug\HPGL2GCODE.pdb
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\bin\Debug\HPGL2GCODE.xml
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.Main.resources
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.Settings.resources
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.Test.resources
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.Resources.resources
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.vbproj.GenerateResource.Cache
+d:\Users\Left\Documents\Visual Studio 2013\Projects\HPGL2GCODE\HPGL2GCODE\obj\Debug\HPGL2GCODE.vbprojResolveAssemblyReference.cache
